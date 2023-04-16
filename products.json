@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Playstation 5",
+    "description": "Descripción del producto nuevo",
+    "price": 50000,
+    "thumbnail": "https://falabella.cl/PS5.jpg",
+    "code": "PRD001",
+    "stock": 100,
+    "id": 1
+  }
+]
